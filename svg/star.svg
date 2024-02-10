@@ -1,0 +1,20 @@
+<svg width="28" height="29" viewBox="0 0 28 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="28" height="29" fill="#E5E5E5"/>
+<g id="Frame 1">
+<rect width="2063" height="1127" transform="translate(-283 -751)" fill="#FEBB41"/>
+<g id="Foo Landing Page">
+<rect x="-93" y="-630" width="1511" height="886" rx="24" fill="url(#paint0_linear_0_1)"/>
+<g id="Group 3">
+<g id="emojione:star">
+<path id="Vector" d="M27.125 11.9634H17.1062L14 2.25092L10.8938 11.9634H0.875L8.96875 17.9572L5.90625 27.6259L14 21.6322L22.0938 27.6259L18.9875 17.9134L27.125 11.9634Z" fill="#FEBB41"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_1" x1="460.634" y1="-169.406" x2="-486.836" y2="-1283.07" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F4ECE1"/>
+<stop offset="1" stop-color="#FCFBF7"/>
+</linearGradient>
+</defs>
+</svg>
